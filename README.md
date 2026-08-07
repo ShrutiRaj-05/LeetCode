@@ -23,4 +23,8 @@
 | [1193-monthly-transactions-i](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1280-students-and-examinations](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1280-students-and-examinations/) | Easy |
 | [1341-movie-rating](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1341-movie-rating/) | Medium |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0193-valid-phone-numbers](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0193-valid-phone-numbers/) | Easy |
 <!---LeetCode Topics End-->
