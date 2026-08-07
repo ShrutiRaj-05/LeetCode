@@ -27,4 +27,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0193-valid-phone-numbers](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0193-valid-phone-numbers/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 <!---LeetCode Topics End-->
