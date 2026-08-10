@@ -11,33 +11,32 @@ class RangeModule {
     }
 
     public void addRange(int left, int right) {
-        // Find the floor interval (might overlap with 'left')
+        // Look up floor keys that could overlap with 'left' and 'right'
         Integer l = map.floorKey(left);
-        // Find the higher interval (might overlap with 'right')
         Integer r = map.floorKey(right);
 
-        // Adjust left bound if the floor interval overlaps
+        // Merge with existing interval on the left if overlapping/adjacent
         if (l != null && map.get(l) >= left) {
             left = l;
         }
 
-        // Adjust right bound if the floor-of-right interval extends past 'right'
+        // Merge with existing interval on the right if it extends beyond 'right'
         if (r != null && map.get(r) > right) {
             right = map.get(r);
         }
 
-        // Remove all sub-intervals in range [left, right] that will be merged
+        // Delete all fully covered sub-intervals in between
         map.subMap(left, true, right, true).clear();
 
-        // Insert the newly merged interval
+        // Store merged interval
         map.put(left, right);
     }
 
     public boolean queryRange(int left, int right) {
-        // Find the interval that starts at or before 'left'
+        // Find floor interval starting at or before 'left'
         Integer l = map.floorKey(left);
-        
-        // Check if this interval exists and completely covers [left, right)
+
+        // Entire [left, right) must be covered by this single interval
         return l != null && map.get(l) >= right;
     }
 
@@ -45,17 +44,17 @@ class RangeModule {
         Integer l = map.floorKey(left);
         Integer r = map.floorKey(right);
 
-        // If floor of 'right' extends beyond 'right', split it to preserve [right, r_end)
+        // Preserve right fragment [right, r_end) if 'right' cuts through an interval
         if (r != null && map.get(r) > right) {
             map.put(right, map.get(r));
         }
 
-        // If floor of 'left' starts before 'left' and ends after 'left', split it to preserve [l_start, left)
+        // Preserve left fragment [l_start, left) if 'left' cuts through an interval
         if (l != null && map.get(l) > left) {
             map.put(l, left);
         }
 
-        // Clear all fully overlapped intervals in between
+        // Remove all fully enclosed sub-intervals in [left, right)
         map.subMap(left, true, right, false).clear();
     }
 }
