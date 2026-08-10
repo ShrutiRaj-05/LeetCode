@@ -96,6 +96,7 @@
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
+| [0355-design-twitter](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0355-design-twitter/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0432-all-oone-data-structure](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0432-all-oone-data-structure/) | Hard |
@@ -105,6 +106,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0146-lru-cache/) | Medium |
+| [0355-design-twitter](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0355-design-twitter/) | Medium |
 | [0432-all-oone-data-structure](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0432-all-oone-data-structure/) | Hard |
 | [0460-lfu-cache](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0460-lfu-cache/) | Hard |
 ## Design
@@ -112,6 +114,7 @@
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
+| [0355-design-twitter](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0355-design-twitter/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0432-all-oone-data-structure](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0432-all-oone-data-structure/) | Hard |
@@ -136,6 +139,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0355-design-twitter](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0355-design-twitter/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
