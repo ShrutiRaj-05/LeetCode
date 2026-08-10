@@ -87,4 +87,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0441-arranging-coins](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0441-arranging-coins/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0146-lru-cache/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0146-lru-cache/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0146-lru-cache/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
