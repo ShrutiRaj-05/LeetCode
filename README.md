@@ -27,6 +27,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0193-valid-phone-numbers](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0193-valid-phone-numbers/) | Easy |
+| [0195-tenth-line](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0195-tenth-line/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
