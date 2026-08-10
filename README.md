@@ -100,6 +100,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0432-all-oone-data-structure](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0432-all-oone-data-structure/) | Hard |
 | [0460-lfu-cache](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0460-lfu-cache/) | Hard |
+| [2043-simple-bank-system](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2043-simple-bank-system/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +118,7 @@
 | [0460-lfu-cache](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0460-lfu-cache/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1032-stream-of-characters](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1032-stream-of-characters/) | Hard |
+| [2043-simple-bank-system](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2043-simple-bank-system/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -151,6 +153,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [1032-stream-of-characters](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1032-stream-of-characters/) | Hard |
+| [2043-simple-bank-system](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2043-simple-bank-system/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,4 +175,8 @@
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2043-simple-bank-system](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2043-simple-bank-system/) | Medium |
 <!---LeetCode Topics End-->
