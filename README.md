@@ -93,6 +93,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0441-arranging-coins](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 | [2080-range-frequency-queries](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2080-range-frequency-queries/) | Medium |
@@ -167,6 +168,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -224,6 +226,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -237,4 +240,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
