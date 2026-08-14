@@ -53,6 +53,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0455-assign-cookies](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Number Theory
@@ -62,6 +63,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0455-assign-cookies](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -167,6 +169,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0455-assign-cookies](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [1032-stream-of-characters](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1032-stream-of-characters/) | Hard |
 | [1476-subrectangle-queries](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1476-subrectangle-queries/) | Medium |
 | [2043-simple-bank-system](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2043-simple-bank-system/) | Medium |
@@ -213,9 +216,14 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0455-assign-cookies](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
