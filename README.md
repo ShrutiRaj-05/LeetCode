@@ -179,6 +179,7 @@
 | [2080-range-frequency-queries](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2080-range-frequency-queries/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -244,4 +245,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 <!---LeetCode Topics End-->
