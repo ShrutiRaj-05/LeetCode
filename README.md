@@ -37,6 +37,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0441-arranging-coins](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 | [1510-stone-game-iv](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -69,6 +70,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
@@ -78,6 +80,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +178,7 @@
 | [0455-assign-cookies](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [1032-stream-of-characters](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1032-stream-of-characters/) | Hard |
 | [1476-subrectangle-queries](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1476-subrectangle-queries/) | Medium |
+| [1563-stone-game-v](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [2043-simple-bank-system](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2043-simple-bank-system/) | Medium |
 | [2080-range-frequency-queries](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2080-range-frequency-queries/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
