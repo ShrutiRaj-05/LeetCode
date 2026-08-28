@@ -53,6 +53,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +76,7 @@
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -291,4 +293,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 <!---LeetCode Topics End-->
