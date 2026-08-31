@@ -142,6 +142,7 @@
 | [0355-design-twitter](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0355-design-twitter/) | Medium |
 | [0432-all-oone-data-structure](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0432-all-oone-data-structure/) | Hard |
 | [0460-lfu-cache](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0460-lfu-cache/) | Hard |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
