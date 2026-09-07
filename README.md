@@ -49,6 +49,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
+| [0940-distinct-subsequences-ii](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1032-stream-of-characters](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1032-stream-of-characters/) | Hard |
 | [1927-sum-game](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -84,6 +85,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
+| [0940-distinct-subsequences-ii](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1510-stone-game-iv](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1872-stone-game-viii](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
