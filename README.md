@@ -211,6 +211,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0835-image-overlap](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [1032-stream-of-characters](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1032-stream-of-characters/) | Hard |
 | [1476-subrectangle-queries](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1476-subrectangle-queries/) | Medium |
 | [1563-stone-game-v](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1563-stone-game-v/) | Hard |
@@ -270,6 +271,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
+| [0835-image-overlap](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [1476-subrectangle-queries](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1476-subrectangle-queries/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Sorting
