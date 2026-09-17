@@ -93,6 +93,7 @@
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1510-stone-game-iv](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -131,6 +132,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0441-arranging-coins](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0441-arranging-coins/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2080-range-frequency-queries](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2080-range-frequency-queries/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -145,6 +147,7 @@
 | [0432-all-oone-data-structure](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0432-all-oone-data-structure/) | Hard |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0460-lfu-cache](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0460-lfu-cache/) | Hard |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2043-simple-bank-system](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2043-simple-bank-system/) | Medium |
 | [2080-range-frequency-queries](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2080-range-frequency-queries/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -221,6 +224,7 @@
 | [0835-image-overlap](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [1032-stream-of-characters](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1032-stream-of-characters/) | Hard |
 | [1476-subrectangle-queries](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1476-subrectangle-queries/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1872-stone-game-viii](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [2043-simple-bank-system](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2043-simple-bank-system/) | Medium |
@@ -291,6 +295,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
