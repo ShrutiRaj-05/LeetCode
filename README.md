@@ -131,6 +131,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0441-arranging-coins](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0441-arranging-coins/) | Easy |
@@ -218,6 +219,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0130-surrounded-regions](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -352,4 +354,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
