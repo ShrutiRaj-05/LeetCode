@@ -40,6 +40,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0441-arranging-coins](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 | [0836-rectangle-overlap](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1510-stone-game-iv](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -357,6 +358,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
