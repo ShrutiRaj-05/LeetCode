@@ -62,6 +62,7 @@
 | [0115-distinct-subsequences](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1032-stream-of-characters](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1032-stream-of-characters/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -75,6 +76,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -160,6 +162,7 @@
 | [0432-all-oone-data-structure](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0432-all-oone-data-structure/) | Hard |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0460-lfu-cache](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0460-lfu-cache/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -311,6 +314,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -334,6 +338,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -378,4 +383,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 <!---LeetCode Topics End-->
