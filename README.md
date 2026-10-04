@@ -63,6 +63,7 @@
 | [0022-generate-parentheses](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0115-distinct-subsequences](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1032-stream-of-characters](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1032-stream-of-characters/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -89,6 +90,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -113,6 +115,7 @@
 | [0022-generate-parentheses](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0115-distinct-subsequences](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1510-stone-game-iv](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
@@ -402,6 +405,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -411,6 +415,7 @@
 | [0020-valid-parentheses](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
