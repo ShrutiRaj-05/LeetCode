@@ -62,6 +62,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0010-regular-expression-matching](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0020-valid-parentheses](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
@@ -119,6 +120,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0115-distinct-subsequences](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
@@ -411,6 +413,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0010-regular-expression-matching](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
