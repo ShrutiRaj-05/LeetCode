@@ -175,6 +175,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2080-range-frequency-queries](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2080-range-frequency-queries/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Hash Table
@@ -288,6 +289,7 @@
 | [1872-stone-game-viii](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [2043-simple-bank-system](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2043-simple-bank-system/) | Medium |
 | [2080-range-frequency-queries](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2080-range-frequency-queries/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -366,6 +368,7 @@
 | [0455-assign-cookies](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
