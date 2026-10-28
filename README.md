@@ -15,6 +15,7 @@
 | [0262-trips-and-users](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0262-trips-and-users/) | Hard |
 | [0511-game-play-analysis-i](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0550-game-play-analysis-iv](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0550-game-play-analysis-iv/) | Medium |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0584-find-customer-referee](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0584-find-customer-referee/) | Easy |
 | [0585-investments-in-2016](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0585-investments-in-2016/) | Medium |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
