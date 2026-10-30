@@ -94,6 +94,7 @@
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -265,6 +266,7 @@
 | ------- | ------- |
 | [0355-design-twitter](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0355-design-twitter/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -513,4 +515,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 <!---LeetCode Topics End-->
