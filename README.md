@@ -42,6 +42,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0441-arranging-coins](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0441-arranging-coins/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0836-rectangle-overlap](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1510-stone-game-iv](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
@@ -289,6 +290,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0835-image-overlap](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [1032-stream-of-characters](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1032-stream-of-characters/) | Hard |
