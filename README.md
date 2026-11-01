@@ -224,6 +224,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0024-swap-nodes-in-pairs](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0146-lru-cache](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0355-design-twitter](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0355-design-twitter/) | Medium |
 | [0432-all-oone-data-structure](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0432-all-oone-data-structure/) | Hard |
@@ -473,6 +474,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
+| [0024-swap-nodes-in-pairs](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
