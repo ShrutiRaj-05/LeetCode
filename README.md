@@ -278,6 +278,7 @@
 | ------- | ------- |
 | [0355-design-twitter](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0355-design-twitter/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1882-process-tasks-using-servers](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Binary Tree
@@ -315,6 +316,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1872-stone-game-viii](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
+| [1882-process-tasks-using-servers](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2043-simple-bank-system](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2043-simple-bank-system/) | Medium |
 | [2080-range-frequency-queries](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2080-range-frequency-queries/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
