@@ -233,6 +233,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0023-merge-k-sorted-lists](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0146-lru-cache](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0355-design-twitter](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0355-design-twitter/) | Medium |
@@ -276,6 +277,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0355-design-twitter](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0355-design-twitter/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1882-process-tasks-using-servers](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1882-process-tasks-using-servers/) | Medium |
@@ -514,6 +516,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0023-merge-k-sorted-lists](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Stack
@@ -559,4 +562,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ShrutiRaj-05/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
