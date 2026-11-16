@@ -90,6 +90,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/ShrutiRaj-05/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -395,6 +396,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2043-simple-bank-system](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2043-simple-bank-system/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ShrutiRaj-05/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ShrutiRaj-05/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Segment Tree
